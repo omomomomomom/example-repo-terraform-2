@@ -1,1 +1,1 @@
-value from CLI prompt
+This is an example README file updated in both repositories from CLI
