@@ -1,1 +1,1 @@
-This is an example README file updated in both repositories. now manually added123
+value from CLI prompt
