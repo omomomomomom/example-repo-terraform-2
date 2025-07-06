@@ -1,1 +1,1 @@
-This is an example README file updated in both repositories from tfvars file.
+from the env variable this contetnt fetch in redme file.
