@@ -1,1 +1,1 @@
-This is an example README file updated in both repositories from CLI
+This is an example README file updated in both repositories.
